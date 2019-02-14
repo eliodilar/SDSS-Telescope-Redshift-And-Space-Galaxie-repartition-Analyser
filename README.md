@@ -27,7 +27,7 @@ If some developper want to finish it, no problems.
 You can have a place as contributors.
 
 Tool is under building
-
+Python 3.7.1
 
 
 
