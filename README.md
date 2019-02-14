@@ -8,3 +8,4 @@ http://www.jerome-chapoul.com/
 
 Profil WebPage -> téléchargement -> SDDS_Data.
 File: maingalaxyfulldata.csv 100 Mo. 620 000 galaxy.
+
