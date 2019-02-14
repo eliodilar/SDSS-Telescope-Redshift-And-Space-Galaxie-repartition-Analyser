@@ -6,7 +6,7 @@ Link to download the SDSS catalogue.CSV
 My official WebSite:
 http://www.jerome-chapoul.com/
 
-Profil WebPage -> téléchargement -> SDDS_Data.
+Profil WebPage -> téléchargement -> SDSSData File.
 File: maingalaxyfulldata.csv 100 Mo. 620 000 galaxy.
 
 
