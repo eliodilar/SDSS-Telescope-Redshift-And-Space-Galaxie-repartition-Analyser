@@ -1,4 +1,11 @@
 # -*- coding: utf-8 -*-
+#Author: Jerome.chapoul@hotmail.com
+# Disponible to create, modifie and use with citations, conformed to GPLv3 Licence.
+#
+#Cordially
+
+
+
 
 from __future__ import division, print_function
 
